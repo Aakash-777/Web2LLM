@@ -24,7 +24,7 @@
 - 📄 **Markdown Collection** for structured page content.
 - 🧠 **Local Language Modeling** with Ollama (LLaMA3.2) and `mxbai-embed-large`.
 - 🧬 **Semantic Embeddings** stored in **ChromaDB**.
-- 🖥️ **Streamlit UI** for an interactive Q&A experience.
+- 🖥️ **Streamlit UI** for an interactive Q&A experience. (Yet to be updated)
 
 ---
 
