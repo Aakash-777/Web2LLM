@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "commited"
+git branch -M main
+git remote add origin https://github.com/Aakash-777/Web2LLM.git
+git push -u origin main
